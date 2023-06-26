@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+set -euxo pipefail
 
 GH_REPO="https://github.com/ajeetdsouza/zoxide"
 TOOL_NAME="zoxide"
